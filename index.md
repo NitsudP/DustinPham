@@ -1,14 +1,11 @@
-## Welcome to Dustin's Portfolio
+## About me
 
-You can use the [editor on GitHub](https://github.com/NitsudP/DustinPham/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a Junior majoring in Economics and planning to minor in business. I currently believe I have developed some skills in the business field. I am Microsoft Certified. I like to develop useful skills that i know will benefit me in the future. I am currently learning how to use Autodesk Revit as well as Adobe Photoshop. Some hobbies of mine is playing any type of sport, gaming, cooking,  and learning faster ways to do things to make my life easier. I also like to read some self development books as well as some books that will help me achieve more in life, but reading is not a hobby for me, i don't enjoy reading, i just read to try to get some knowledge that will benefit me. Hopefully you learned a little bit about me through this.
 
 ### Skills
 
-- Bulleted
-- List
-  Microsoft Certified
+- Microsoft Certified
+- idk
   
 
 
