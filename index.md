@@ -12,8 +12,8 @@ I am a Junior at the University of Texas at Austin majoring in Economics and pla
 - SPORT PERSONER
   
 ### PROJECTS
-[Link](https://nitsudp.github.io/DustinPham/)
-![image](https://en.wikipedia.org/wiki/Solo_Leveling#/media/File:Solo_Leveling_Webtoon.png)
+[Portfolio Website](https://nitsudp.github.io/DustinPham/)
+
 
 ### RESEARCHES
 
