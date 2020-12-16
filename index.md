@@ -13,7 +13,8 @@ I am a Junior at the University of Texas at Austin majoring in Economics and pla
   
 ### PROJECTS
 [Portfolio Website](https://nitsudp.github.io/DustinPham/)
-![Versus Wardell](image)
+
+![Versus Wardell](wardell.PNG)
 
 
 ### RESEARCHES
