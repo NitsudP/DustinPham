@@ -2,11 +2,25 @@
 
 I am a Junior majoring in Economics and planning to minor in business. I currently believe I have developed some skills in the business field. I am Microsoft Certified. I like to develop useful skills that i know will benefit me in the future. I am currently learning how to use Autodesk Revit as well as Adobe Photoshop. Some hobbies of mine is playing any type of sport, gaming, cooking,  and learning faster ways to do things to make my life easier. I also like to read some self development books as well as some books that will help me achieve more in life, but reading is not a hobby for me, i don't enjoy reading, i just read to try to get some knowledge that will benefit me. Hopefully you learned a little bit about me through this.
 
-### Skills
+### SOFT SKILLS
 
-- Microsoft Certified
-- idk
+- MICROSOFT CERTIFIED
+- BLENDER
+- CODER
+- DEVELOPER
+- GAMER
+- SPORT PERSONER
   
+### PROJECTS
+
+### RESEARCHES
+
+### WORK EXPERIENCE
+
+### INTERN EXPERIENCE
+
+### RESUME
+
 
 
 ```markdown
